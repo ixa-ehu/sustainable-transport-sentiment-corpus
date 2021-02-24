@@ -7,7 +7,7 @@ More specifically, the new dataset contains 2000 reviews from the transport doma
 ### Datasets
 
 + User Gold Standard Corpus: [GSC Gold Standard Corpus](https://github.com/ixa-ehu/sustainable-transport-sentiment-corpus/tree/main/ugc_gold_standard)
-+ Binary Classification Experiments (with noise): [Datasets and Notebook](https://github.com/ixa-ehu/sustainable-transport-sentiment-corpus/tree/main/binary_classification
++ Binary Classification Experiments (with noise): [Datasets and Notebook](https://github.com/ixa-ehu/sustainable-transport-sentiment-corpus/tree/main/binary_classification)
 + Multiclass Classification Experiments (1-5 stars): [Datasets and Notebook](https://github.com/ixa-ehu/sustainable-transport-sentiment-corpus/tree/main/multiclass_classification)
 
 **NOTE** The notebooks use the scripts contained in this repo: [https://github.com/ragerri/transformers-training-scripts](https://github.com/ragerri/transformers-training-scripts)
